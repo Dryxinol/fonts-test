@@ -31,6 +31,7 @@
     "gulp-if": "^3.0.0",
     "gulp-image": "^6.2.1",
     "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
     "gulp-rev": "^9.0.0",
     "gulp-rev-delete-original": "^0.2.3",
     "gulp-rev-rewrite": "^5.0.0",
@@ -39,10 +40,11 @@
     "gulp-svg-sprite": "^1.5.0",
     "gulp-uglify-es": "^3.0.0",
     "node-w3c-validator": "^2.0.1",
+    "postcss-reporter": "^7.0.4",
     "sass": "^1.38.2",
     "stylelint": "^13.13.1",
     "stylelint-declaration-block-no-ignored-properties": "^2.4.0",
     "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.20.1"
+    "stylelint-scss": "^3.21.0"
   }
 }
